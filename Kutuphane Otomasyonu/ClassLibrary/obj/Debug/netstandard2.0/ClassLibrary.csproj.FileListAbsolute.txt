@@ -1,0 +1,45 @@
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Eren\source\repos\Kütüphane\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Eren\source\repos\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Me\Desktop\Kutuphane2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Eren\Desktop\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\AIBÜ - BM\DÖNEM 2.2\veritabanı Yönetimi\VTYS Donem Projesi - Mursel Elibol-Eren Saskin\Kutuphane Otomasyonu\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
